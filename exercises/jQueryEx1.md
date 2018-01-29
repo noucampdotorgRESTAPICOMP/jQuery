@@ -1,16 +1,26 @@
-## jQuery Exercise 1
+# jQuery Exercise 1
 
 
 ## Clone the Remote Repository
 
-```
-$ cd /xampp/htdocs
-$ git clone https://github.com/noucampdotorgRESTAPICOMP/jQuery.git
-$ cd jQuery
-$ ls (or dir)
-$ git status
 
-```
+1.	Accept the GitHub Classroom invitation to this exercise [here]()
+
+1.	Copy the clone URL from your new repository ``jQuery-<YOURACCOUNT>``
+
+1.	Type these commands into your *Git Bash* client:
+
+	```
+	$ cd /<DRIVE>/xampp/htdocs   
+	$ git clone <URL> jQuery
+	$ cd jQuery
+	$ ls (or dir)
+	$ git status
+
+	```
+
+Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` with some files in it.
+
 
 ## Part 1 — Hello jQuery
 
@@ -21,6 +31,18 @@ $ git status
 
 
 1.	Modify the code in ``FirstjQ.js`` to print "hello world" to the browser's console window as well.  Check it works.  F12 key!!
+
+
+1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+
+	```
+	$ git status
+	$ git add .
+	$ git commit -m "Exercise 1 - Part 1 DONE|PARTIAL|HELP"
+	$ git push origin master
+	$ git status
+
+	```
 
 
 ## Part 2 – Selectors
@@ -42,5 +64,16 @@ $ git status
 	1.	select the heading and the unordered list with one line of code
 
 
+1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
 
+	```
+	$ git status
+	$ git add .
+	$ git commit -m "Exercise 1 - Part 2 DONE|PARTIAL|HELP"
+	$ git push origin master
+	$ git status
+
+	```
+
+If you need help with your code let your lecturer know.  Refer to your repository if necessary.
 
