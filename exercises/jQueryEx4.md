@@ -19,7 +19,7 @@ Using the HTML page [http://localhost/jQuery/HellojQueryAjax.html](http://localh
 
 1.	Create a new file called ``MyAjaxData.txt`` and add some basic HTML tag data to it, e.g. a ``<ol>`` or ``<table>``.  Then modify the ``AjaxGet.js`` program to load and show it.
 	
-#.	Add to the HTML page ``DropdownjQueryAjax.html`` a dropdown box that has options for:
+1.	Add to the HTML page ``DropdownjQueryAjax.html`` a dropdown box that has options for:
 
 	```
 	Choose type...
@@ -29,7 +29,7 @@ Using the HTML page [http://localhost/jQuery/HellojQueryAjax.html](http://localh
 	Forwards 
 
 	```
-	
+
 	Write the jQuery code in a JavaScript file ``DropdownjQueryAjax.js`` that retrieves the appropriate data for the player type selected from either of the corresponding files -- ``goalkeepers.txt``, ``defenders.txt``,
 	``midfielders.txt`` and ``forwards.txt`` - and displays that data on the HTML page. 
 	
