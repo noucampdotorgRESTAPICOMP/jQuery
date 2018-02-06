@@ -22,7 +22,7 @@ Using the HTML page [http://localhost/jQuery/HellojQueryAjax.html](http://localh
 #.	Add to the HTML page ``DropdownjQueryAjax.html`` a dropdown box that has options for:
 
 	.. code-block:: text
-	
+
 		Choose type...
 		Goalkeepers
 		Defenders
