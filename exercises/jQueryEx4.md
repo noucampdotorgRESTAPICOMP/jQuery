@@ -38,7 +38,7 @@ Using the HTML page [http://localhost/jQuery/HellojQueryAjax.html](http://localh
 	```
 	$ git status
 	$ git add .
-	$ git commit -m "Exercise 3 - Part 1 DONE|PARTIAL|HELP"
+	$ git commit -m "Exercise 4 - Part 1 DONE|PARTIAL|HELP"
 	$ git push origin master
 	$ git status
 
