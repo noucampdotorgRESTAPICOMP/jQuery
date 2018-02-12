@@ -5,4 +5,3 @@
 -	[Exercise 2 – Filters & Content Manipulation](exercises/jQueryEx2.md)
 -	[Exercise 3 – Event Handling](exercises/jQueryEx3.md)
 -	[Exercise 4 – Ajax](exercises/jQueryEx4.md)
--	[Exercise 5 – 6nations](exercises/jQueryEx5.md)
