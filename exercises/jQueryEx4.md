@@ -21,13 +21,14 @@ Using the HTML page [http://localhost/jQuery/HellojQueryAjax.html](http://localh
 	
 1.	Add to the HTML page ``DropdownjQueryAjax.html`` a dropdown box that has options for:
 
-	.. code-block:: text
+	```
+	Choose type...
+	Goalkeepers
+	Defenders
+	Midfielders
+	Forwards 
 
-		Choose type...
-		Goalkeepers
-		Defenders
-		Midfielders
-		Forwards 
+	```
 
 	Write the jQuery code in a JavaScript file ``DropdownjQueryAjax.js`` that retrieves the appropriate data for the player type selected from either of the corresponding files -- ``goalkeepers.txt``, ``defenders.txt``,
 	``midfielders.txt`` and ``forwards.txt`` - and displays that data on the HTML page. 
