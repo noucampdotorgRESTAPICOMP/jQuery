@@ -15,14 +15,14 @@ $ git status
 Using the HTML page [http://localhost/jQuery/HellojQueryAjax.html](http://localhost/jQuery/HellojQueryAjax.html) write event handlers to perform the following tasks (test one at a time):
 
 
-#.	Examine and then run the code in [http://localhost/jQuery/AjaxGet.html](http://localhost/jQuery/AjaxGet.html) to demonstrate jQuery using the Ajax function ``get()``.
+1.	Examine and then run the code in [http://localhost/jQuery/AjaxGet.html](http://localhost/jQuery/AjaxGet.html) to demonstrate jQuery using the Ajax function ``get()``.
 
-#.	Create a new file called ``MyAjaxData.txt`` and add some basic HTML tag data to it, e.g. a ``<ol>`` or ``<table>``.  Then modify the ``AjaxGet.js`` program to load and show it.
+1.	Create a new file called ``MyAjaxData.txt`` and add some basic HTML tag data to it, e.g. a ``<ol>`` or ``<table>``.  Then modify the ``AjaxGet.js`` program to load and show it.
 	
-#.	Add to the HTML page ``DropdownjQueryAjax.html`` a dropdown box that has options for:
+1.	Add to the HTML page ``DropdownjQueryAjax.html`` a dropdown box that has options for:
 
 	.. code-block:: text
-	
+
 		Choose type...
 		Goalkeepers
 		Defenders
